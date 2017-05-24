@@ -1,0 +1,36 @@
+.test{
+    border:1px red solid;
+}
+.margin{
+    margin: auto;
+}
+.border{
+    border: 1px solid rebeccapurple;
+}
+.font{
+    font-size: 0;
+    TEXT-ALIGN: center;
+}
+.width-all{
+    width: 100%;
+}
+.width-l{
+    width: 210px;
+}
+.width-r{
+    width: 80%;
+}
+.height-h0{
+    height: 75px;
+}
+.height-h1{
+    height: 100px;
+}
+.height-m{
+    height: 80%;
+}
+.position{
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+}
